@@ -1,0 +1,5 @@
+model_name,package,name,function,file_name,eval_parm
+K Means Clustering,sklearn.cluster,Kmeans,,best_KMeans,test
+Hierarchical Clustering,sklearn.cluster,AgglomerativeClustering,,best_Hierarchical,test
+Affinity Propogation,sklearn.cluster,AffinityPropogation,,best_AffinityPropogation,test
+Birch,sklearn.cluster,Birch,,best_Birch,test
